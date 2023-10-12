@@ -27,4 +27,4 @@ PASOS PARA INSTALAR EL PROYECTO:
 
 2 - npm install -> para instalar las dependencias correspondientes.
 
-PODEMOS DESPLEGAR LA PAGINA CON ESTE COMANDO --> **npm run dev**.
+PODEMOS DESPLEGAR LA PAGINA CON ESTE COMANDO --> **npm run dev**. (este le indicara por consola el puerto por el cual estara disponible la pagina!!)
